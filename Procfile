@@ -1,1 +1,0 @@
-tracker: python digikalatracker.py
