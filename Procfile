@@ -1,1 +1,1 @@
-python digikalatracker.py
+tracker: python digikalatracker.py
